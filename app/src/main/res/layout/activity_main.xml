@@ -254,10 +254,7 @@
             android:layout_marginTop="8dp"
             android:maxLines="3"
             android:ellipsize="end"
-            android:text="The Alchemist is a mesmerizing story about a
-young shepherd named Santiago and his heroes journey to find his long
-waited treasure. Santiago keeps on having a recurring dream about a
-hidden treasure somewhere in Egypt."
+            android:text="@string/review"
 
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
